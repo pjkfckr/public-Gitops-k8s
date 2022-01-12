@@ -8,7 +8,7 @@ metadata:
 spec:
   description: dev Project
   sourceRepos:
-  - '*'
+  - 'https://github.com/pjkfckr/GitOps_k8s.git'
 
   destinations:
   - namespace: default
