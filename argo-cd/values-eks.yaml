@@ -23,7 +23,7 @@ server:
 #    url: http://127.0.0.1:30080
     accounts.admin: apiKey, login
     repositories: |
-      - url: https://github.com/dev-chulbuji/devops_k8s.git
+      - url: https://github.com/pjkfckr/GitOps_k8s.git
       - url: https://github.com/dev-chulbuji/devops_sample_app_python.git
 
 #    dex.config: |
