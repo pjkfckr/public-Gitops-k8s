@@ -1,4 +1,4 @@
-repoURL: 'https://github.com/dev-chulbuji/devops_k8s.git'
+repoURL: 'https://github.com/pjkfckr/GitOps_k8s.git'
 apps:
   - name: prometheus-operator
     project: dev
@@ -40,7 +40,7 @@ apps:
       customValues: true
       values:
         - values-local.yaml
-  - name: demo
+  - name: demo-application
     project: dev
     namespace: default
     source:
