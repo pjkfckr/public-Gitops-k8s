@@ -8,4 +8,4 @@ delete:
 	helm delete -n argo app-of-apps
 
 template:
-	helm template -f values.yaml app-of-apps .
+	helm template -f values-local.yaml app-of-apps .
