@@ -1,4 +1,4 @@
-repoURL: 'https://github.com/pjkfckr/GitOps_k8s.git'
+repoURL: 'https://github.com/pjkfckr/public-Gitops-k8s.git'
 apps:
   - name: demo
     project: default
