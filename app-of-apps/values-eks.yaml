@@ -8,6 +8,7 @@ apps:
       customValues: true
       values:
         - values-eks.yaml
+
 #  - name: prometheus
 #    project: default
 #    namespace: prom
