@@ -1,7 +1,7 @@
 replicas: 1
 image:
   repository: 198495179858.dkr.ecr.ap-northeast-2.amazonaws.com/deploy-ecotag
-  tag: 1.0.1
+  tag: 1.0.2
   imagePullSecrets:
     - name: ecr-cred
 service:
